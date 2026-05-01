@@ -1,6 +1,6 @@
 # Movie Tracker
 
-![home-page](assets/home-screenshot.png){height=600px}
+<img src="assets/home-screenshot.png" height="500">
 
 ## Objective
 Practice theories
