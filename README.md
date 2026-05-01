@@ -1,5 +1,7 @@
 # Movie Tracker
 
+![home-page](assets/home-screenshot.png){height=600px}
+
 ## Objective
 Practice theories
 
